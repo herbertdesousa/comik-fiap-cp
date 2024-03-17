@@ -1,5 +1,5 @@
 //#region inverse scroll
-const inverseScrollElement = document.querySelector('#inverse-scroll');
+const inverseScrollElement = document.querySelector('.inverse-scroll');
 
 inverseScrollElement.addEventListener('wheel', (event) => {
   event.preventDefault();
