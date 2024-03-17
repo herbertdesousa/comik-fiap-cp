@@ -4,6 +4,9 @@ section {
   gap: 16px;
   flex-direction: column;
   overflow-y: hidden;
+
+  padding: 32px 0 24px 24px;
+  gap: 24px;
 }
 
 section .section-top {
@@ -69,5 +72,6 @@ section > ul {
   overflow-x: auto;
   width: 100%;
   gap: 16px;
+  padding-right: 24px;
 }
 

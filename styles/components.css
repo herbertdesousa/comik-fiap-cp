@@ -4,6 +4,7 @@ nav {
   flex-direction: column;
   justify-content: space-between;
   width: 256px;
+  padding: 32px 0 24px 24px;
 }
 
 nav .nav-top {
@@ -65,6 +66,15 @@ nav .nav-bottom .nav-bottom-user img {
   height: 48px;
   border-radius: 50%;
   background-color: var(--on-surface-opaque);
+}
+
+/* btn */
+.btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  
+  padding: 16px 24px;
 }
 
 /* btn-primary */
@@ -195,6 +205,14 @@ nav .nav-bottom .nav-bottom-user img {
 }
 .list-item-sm .list-item-image {
   height: 32vh;
+}
+
+.list-item-xs {
+  width: 16vh;
+  min-width: 16vh;
+}
+.list-item-xs .list-item-image {
+  height: 16vh;
 }
 
 .list-item-sm-height .list-item-image {

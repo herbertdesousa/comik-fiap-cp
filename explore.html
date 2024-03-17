@@ -12,10 +12,14 @@
       href="https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
 
     <link rel="stylesheet" href="styles/root.css" />
     <link rel="stylesheet" href="styles/components.css" />
-    <link rel="stylesheet" href="styles/ep-weely.css" />
+    <link rel="stylesheet" href="styles/explore.css" />
   </head>
 
   <body>
@@ -32,19 +36,25 @@
 
         <ul>
           <li>
-            <a class="btn-secondary" href="/">Home</a>
+            <a typ class="btn btn-secondary" href="/">
+              <span class="material-symbols-outlined">home</span>
+
+              <span>Home</span>
+            </a>
           </li>
           <li>
-            <a class="btn-primary" href="#">Episódios Semanais</a>
+            <a class="btn btn-primary" href="#">
+              <span class="material-symbols-outlined">search</span>
+
+              Explorar
+            </a>
           </li>
           <li>
-            <a class="btn-secondary" href="#">Bastidores</a>
-          </li>
-          <li>
-            <a class="btn-secondary" href="#">Entrevistas</a>
-          </li>
-          <li>
-            <a class="btn-secondary" href="#">Lançamentos</a>
+            <a class="btn btn-secondary" href="#">
+              <span class="material-symbols-outlined">edit_note</span>
+
+              Crítica
+            </a>
           </li>
         </ul>
       </div>
@@ -60,9 +70,81 @@
     </nav>
 
     <section class="no-scroll">
-      <h2>Episódios Semanais</h2>
+      <h2>Explorar</h2>
 
-      <ul>
+      <ul id="inverse-scroll" class="list-categories no-scroll">
+        <li class="list-item list-item-xs">
+          <div class="list-item-image">
+            <img src="" alt="Imagem do usuário ..." />
+          </div>
+
+          <div class="list-item-bottom">
+            <span class="font-bangers">Categoria I</span>
+          </div>
+        </li>
+
+        <li class="list-item list-item-xs">
+          <div class="list-item-image">
+            <img src="" alt="Imagem do usuário ..." />
+          </div>
+
+          <div class="list-item-bottom">
+            <span class="font-bangers">Categoria II</span>
+          </div>
+        </li>
+
+        <li class="list-item list-item-xs">
+          <div class="list-item-image">
+            <img src="" alt="Imagem do usuário ..." />
+          </div>
+
+          <div class="list-item-bottom">
+            <span class="font-bangers">Categoria II</span>
+          </div>
+        </li>
+
+        <li class="list-item list-item-xs">
+          <div class="list-item-image">
+            <img src="" alt="Imagem do usuário ..." />
+          </div>
+
+          <div class="list-item-bottom">
+            <span class="font-bangers">Categoria II</span>
+          </div>
+        </li>
+
+        <li class="list-item list-item-xs">
+          <div class="list-item-image">
+            <img src="" alt="Imagem do usuário ..." />
+          </div>
+
+          <div class="list-item-bottom">
+            <span class="font-bangers">Categoria II</span>
+          </div>
+        </li>
+
+        <li class="list-item list-item-xs">
+          <div class="list-item-image">
+            <img src="" alt="Imagem do usuário ..." />
+          </div>
+
+          <div class="list-item-bottom">
+            <span class="font-bangers">Categoria II</span>
+          </div>
+        </li>
+
+        <li class="list-item list-item-xs">
+          <div class="list-item-image">
+            <img src="" alt="Imagem do usuário ..." />
+          </div>
+
+          <div class="list-item-bottom">
+            <span class="font-bangers">Categoria II</span>
+          </div>
+        </li>
+      </ul>
+
+      <ul class="list">
         <li class="list-item list-item-full-height size-span-2">
           <div class="list-item-image">
             <img src="" alt="Imagem do usuário ..." />
@@ -257,6 +339,6 @@
       </ul>
     </section>
 
-    <!-- <script src="./scripts/index.js"></script> -->
+    <script src="./scripts/root.js"></script>
   </body>
 </html>
