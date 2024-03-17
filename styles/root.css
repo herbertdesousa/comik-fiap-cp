@@ -34,12 +34,20 @@ a {
   color: var(--on-surface);
 }
 
-button {
-  cursor: pointer;
+button, input, textarea {
   outline: 0;
   border: 0;
-  background-color: var(--surface);
   color: var(--on-surface);
+  font-family: 'Comic Neue';
+  resize: none;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+
+  cursor: pointer;
+  background-color: transparent;
   font-family: 'Comic Neue';
 }
 
