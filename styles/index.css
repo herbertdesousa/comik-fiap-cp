@@ -38,6 +38,14 @@ section .section-top main div {
   width: 100%;
 }
 
+section .section-top main div h2 {
+  font-size: 36px;
+}
+
+section .section-top main div .btn {
+  z-index: 10;
+}
+
 section .section-top #realtime-chat {
   display: flex;
   flex-direction: column;
