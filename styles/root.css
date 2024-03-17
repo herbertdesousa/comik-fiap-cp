@@ -19,6 +19,12 @@ body {
   font-family: 'Comic Neue';
   background-color: var(--surface);
   color: var(--on-surface);
+
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  padding: 32px 24px 24px 24px;
+  gap: 24px;
 }
 
 li {
@@ -54,4 +60,9 @@ button {
 
 .no-scroll::-webkit-scrollbar {
   display: none;
+}
+
+.size-span-2 {
+  grid-column: span 2 / span 2;
+  grid-row: span 2 / span 2;
 }
