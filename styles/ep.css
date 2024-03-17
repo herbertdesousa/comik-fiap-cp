@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 32px;
+}
+
+nav a {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+
+  transition: 200ms opacity;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+section {
+}
