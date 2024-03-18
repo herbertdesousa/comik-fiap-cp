@@ -17,7 +17,8 @@
     }
   ],
   "home": {
-    "main_item_index": 0
+    "main_item_index": 0,
+    "carrousel_items_index": [1, 6, 8, 3, 2]
   },
   "items": [
     {
