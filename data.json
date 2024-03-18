@@ -1,0 +1,321 @@
+{
+  "categories": [
+    {
+      "label": "Categoria II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Categoria I Alt"
+    },
+    {
+      "label": "Categoria II",
+      "image_url": "https://placehold.co/200x200",
+      "image_alt": "Categoria II Alt"
+    },
+    {
+      "label": "Categoria II",
+      "image_url": "https://placehold.co/200x200",
+      "image_alt": "Categoria II Alt"
+    }
+  ],
+  "items": [
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho I",
+      "image_url": "https://placehold.co/800x800",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tags": []
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho I",
+      "image_url": "https://placehold.co/800x800",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho I",
+      "image_url": "https://placehold.co/800x800",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho I",
+      "image_url": "https://placehold.co/800x800",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho I",
+      "image_url": "https://placehold.co/800x800",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho I",
+      "image_url": "https://placehold.co/800x800",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/0"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    },
+    {
+      "category": {
+        "$ref": "#/categories/1"
+      },
+      "title": "Quadrinho II",
+      "image_url": "https://placehold.co/500x200",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tags": ["Episódio Novo"]
+    }
+  ]
+}

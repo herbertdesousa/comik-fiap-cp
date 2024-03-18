@@ -21,9 +21,10 @@ section ul.list-categories li .list-item-bottom {
   text-align: center;
 }
 
-section ul.list {
+section ul#list-items {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: repeat(auto-fill, 32vh);
   gap: 16px;
   padding-right: 24px;
 }
