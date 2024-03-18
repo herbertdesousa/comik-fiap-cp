@@ -27,7 +27,16 @@ section .section-top main {
   
   padding: 24px;
   height: 100%;
+}
 
+section .section-top main img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -5;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
   background-color: var(--on-surface);
 }
 
