@@ -26,9 +26,7 @@ loadData((json) => {
       <li class="${liClass}">
         <div class="list-item-image">
           <img src="${item.image_url}" alt="${item.image_alt}" />
-          ${item.tags.map(tag => (
-            `<span class="tag">${tag}</span>`
-          ))}
+          ${item.tag && `<span class="tag">${item.tag}</span>`}
         </div>
 
         <div class="list-item-bottom">
