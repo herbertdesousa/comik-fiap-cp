@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "label": "Episódios Novos",
+      "image_url": "assets/img-1.jpg",
+      "image_alt": "Categoria I Alt"
+    },
+    {
+      "label": "Estreias",
+      "image_url": "assets/img-2.jpg",
+      "image_alt": "Categoria II Alt"
+    },
+    {
+      "label": "Entrevistas",
+      "image_url": "assets/img-3.webp",
+      "image_alt": "Categoria II Alt"
+    }
+  ],
+  "home": {
+    "main_item_index": 0,
+    "carrousel_items_index": [1, 6, 8, 3, 2]
+  },
+  "items": [
+    {
+      "title": "Quadrinho I",
+      "image_url": "assets/img-1.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Ep Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-2.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tag": ""
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-3.webp",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-1.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-2.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho I",
+      "image_url": "assets/img-3.webp",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-1.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-2.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-3.webp",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-1.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho I",
+      "image_url": "assets/img-2.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-3.webp",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-1.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-2.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-3.webp",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho I",
+      "image_url": "assets/img-1.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-2.jpg",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "assets/img-3.webp",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho I",
+      "image_url": "https://placehold.co/800x800",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho I",
+      "image_url": "https://placehold.co/800x800",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    },
+    {
+      "title": "Quadrinho II",
+      "image_url": "https://cataas.com/cat",
+      "image_alt": "Quadrinho I",
+      "trending_info": "2k",
+      "tag": "Episódio Novo"
+    }
+  ]
+}
