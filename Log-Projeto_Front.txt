@@ -1,0 +1,13 @@
+// Concluido:
+
+- Pasta /images adicionada.
+
+
+// A fazer:
+
+1- mexer nas categorias do explorar. Adicionar uma teg <a id=""></a> com o intuito de separar o explorar por categorias
+e criar um menu de navegação na parte superior da página explorar.
+
+2 - Gerar imatgens por IAs de capa de quadrinhos e coloca-las na pasta /images do projeto.
+
+
